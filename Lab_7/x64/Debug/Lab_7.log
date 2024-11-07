@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_7\Lab_7\Source.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_7\Lab_7\Source.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_7\Lab_7\Source.cpp(84,36): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_7\Lab_7\Source.cpp(95,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_7\Lab_7\Source.cpp(28): warning C4715: 'readGraph': not all control paths return a value
+  Lab_7.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_7\Lab_7\x64\Debug\Lab_7.exe
